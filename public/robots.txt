@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dinukakeshan.vercel.app/sitemap.xml
